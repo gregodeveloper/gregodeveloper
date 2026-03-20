@@ -26,6 +26,7 @@
 
 <div align="center">
   <h3 style="margin-top: 20px;">📫 Onde me encontrar</h3>
-    <a href="https://instagram.com/grego.seven" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.twitch.tv/grego7k" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/users/seven.grego" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord seven.grego">
+  </a>
 </div>
