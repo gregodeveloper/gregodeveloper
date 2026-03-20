@@ -1,8 +1,19 @@
 ### Olá, eu sou o Grego! 👋
 
 <div align="center">
+  <img src="https://r2.fivemanage.com/m8xDmfxMY5L43JRXiJ7MA/grklogo.png" alt="GRK Logo" width="200px" style="margin: 20px 0;">
+</div>
+
+<div align="center">
   <a href="https://github.com/gregodeveloper">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gregodeveloper&show_icons=true&theme=normal&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
+<div align="center">
+  <h3 style="margin-top: 30px;">📊 Minhas Estatísticas de Código</h3>
+  <a href="https://github.com/gregodeveloper">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregodeveloper&layout=compact&langs_count=7&theme=normal&hide=html,css"/>
   </a>
 </div>
 
