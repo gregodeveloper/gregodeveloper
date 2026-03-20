@@ -5,19 +5,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/gregodeveloper">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gregodeveloper&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
-
-<div align="center">
-  <h3 style="margin-top: 30px;">📊 Minhas Estatísticas de Código</h3>
-  <a href="https://github.com/gregodeveloper">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregodeveloper&layout=compact&langs_count=7&theme=tokyonight&hide=html,css"/>
-  </a>
-</div>
-
-<div align="center">
   <h3 style="margin-top: 30px;">🛠️ Linguagens e Ferramentas</h3>
   <p>
     <img align="center" alt="Lua" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg">
