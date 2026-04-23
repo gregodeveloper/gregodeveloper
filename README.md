@@ -37,6 +37,12 @@
 
 <br>
 
+### 📊 Minhas Estatísticas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gregodeveloper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Estatísticas do GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregodeveloper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="Linguagens Mais Usadas"/>
+</div>
+
 ### 📫 Onde me encontrar
 <div align="center">
   <a href="https://discord.com/users/seven.grego" target="_blank">
